@@ -1,0 +1,11 @@
+C:\Users\CodeSmart\source\repos\AnimalDelegateProject\bin\Debug\netcoreapp2.1\AnimalDelegateProject.deps.json
+C:\Users\CodeSmart\source\repos\AnimalDelegateProject\bin\Debug\netcoreapp2.1\AnimalDelegateProject.runtimeconfig.json
+C:\Users\CodeSmart\source\repos\AnimalDelegateProject\bin\Debug\netcoreapp2.1\AnimalDelegateProject.runtimeconfig.dev.json
+C:\Users\CodeSmart\source\repos\AnimalDelegateProject\bin\Debug\netcoreapp2.1\AnimalDelegateProject.dll
+C:\Users\CodeSmart\source\repos\AnimalDelegateProject\bin\Debug\netcoreapp2.1\AnimalDelegateProject.pdb
+C:\Users\CodeSmart\source\repos\AnimalDelegateProject\obj\Debug\netcoreapp2.1\AnimalDelegateProject.csproj.CoreCompileInputs.cache
+C:\Users\CodeSmart\source\repos\AnimalDelegateProject\obj\Debug\netcoreapp2.1\AnimalDelegateProject.AssemblyInfoInputs.cache
+C:\Users\CodeSmart\source\repos\AnimalDelegateProject\obj\Debug\netcoreapp2.1\AnimalDelegateProject.AssemblyInfo.cs
+C:\Users\CodeSmart\source\repos\AnimalDelegateProject\obj\Debug\netcoreapp2.1\AnimalDelegateProject.dll
+C:\Users\CodeSmart\source\repos\AnimalDelegateProject\obj\Debug\netcoreapp2.1\AnimalDelegateProject.pdb
+C:\Users\CodeSmart\source\repos\AnimalDelegateProject\obj\Debug\netcoreapp2.1\AnimalDelegateProject.csprojAssemblyReference.cache
